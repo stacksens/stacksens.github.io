@@ -13,8 +13,8 @@ const Home = () => {
       />
       
       <Hero
-        headline="We Build Scalable Web & Mobile Apps for Restaurants & Hospitality"
-        subtext="StackSens helps businesses turn ideas into reliable, production-ready software."
+        headline="Restaurant Apps That Drive Revenue"
+        subtext="Turn your restaurant into a tech-enabled business with custom web and mobile apps that boost sales and streamline operations."
       />
 
       {/* Services Overview */}
